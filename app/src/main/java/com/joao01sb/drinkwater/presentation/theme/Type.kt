@@ -1,4 +1,4 @@
-package com.joao01sb.drinkwater.ui.theme
+package com.joao01sb.drinkwater.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.joao01sb.drinkwater.ui.theme
+package com.joao01sb.drinkwater.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -13,7 +13,7 @@ private val DarkColorPalette = darkColors(
 )
 
 private val LightColorPalette = lightColors(
-    primary = Purple500,
+    primary = Purple200,
     primaryVariant = Purple700,
     secondary = Teal200
 
